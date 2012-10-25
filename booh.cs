@@ -12,6 +12,11 @@ string printThat(void){
 	printf("That");
 }
 
+<<<<<<< HEAD
 string printBooh(){
 	printf("BOOH");
+=======
+string printJA(void){
+	printf("JA");
+>>>>>>> Dev1
 }
