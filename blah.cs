@@ -9,6 +9,7 @@ void main(void){
 	printThat();
 	
 	printThis(); // Again
+	printThat(); // And Again
 	
 	return 0;
 }
