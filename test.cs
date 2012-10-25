@@ -15,3 +15,8 @@ void main(void){
 string otherFunction(void){
 	return "Booh";
 }
+
+
+string newFunction(void){
+	return "newFunction";
+}
