@@ -11,3 +11,7 @@ string printThis(void){
 string printThat(void){
 	printf("That");
 }
+
+string printJA(void){
+	printf("JA");
+}
