@@ -19,5 +19,5 @@ string printThis(void){
 }
 
 string printThat(void){
-	printf("That");
+	printf("That Master");
 }
