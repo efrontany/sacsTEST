@@ -18,3 +18,7 @@ string printBooh(){
 string printJA(void){
 	printf("JA");
 }
+
+string printBlan(void){
+	printf("Blah");
+}
